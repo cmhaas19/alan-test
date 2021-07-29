@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="test" max_length="40" name="x_snc_abel_table_test" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Column3" max_length="40" name="column3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Column1" max_length="40" name="column1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Column2" max_length="40" name="column2" type="string"/>
+    </element>
+</database>
